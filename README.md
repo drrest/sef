@@ -26,7 +26,7 @@ The script requires `pandas` (optional) and `matplotlib` libraries.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vash-login/company-efficiency-analysis.git
+git clone https://github.com/drrest/sef.git
 ```
 2. Install dependencies:
 ```bash
